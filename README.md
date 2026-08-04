@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Zhi Song, a Year 1 Computer Science student at the National University of Singapore. I have a strong interest in Cloud Computing, Backend Development, and Frontend Development. I'm passionate about building scalable and efficient systems, and I enjoy exploring new technologies to enhance my skill set. Feel free to connect with me and check out my projects!
+👋 Hi, I’m Zhi Song, a Computer Science student at the National University of Singapore. I have a strong interest in Machine Learning, AI, Cloud Computing, Backend Development, and Frontend Development. I'm passionate about building scalable and efficient systems, and I enjoy exploring new technologies to enhance my skill set. Feel free to connect with me and check out my projects!
 
 
 ## 🌐 Socials:
